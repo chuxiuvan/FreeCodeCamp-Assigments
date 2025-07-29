@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> <meta charset="UTF-8"> 
+<title>Lu Rou Fan (Taiwanese Braised Pork Rice Recipe!) </title>
+</head>
+
+<body>
+  <h1> Lu Rou Fan (Taiwanese Braised Pork Rice Recipe) </h1>
+
+<img src="https://media.istockphoto.com/id/2183785328/photo/braised-pork-rice-lu-rou-fan.jpg?s=612x612&w=0&k=20&c=sYhC6lHqGqhQVffx0_3zdtZGwRzGFuIuEHyfBHKkfZg=" alt="Bowl of Taiwanese Braised Pork Rice">
+</a> 
+<figcaption> <em> Photo Credit: <a href="istockphoto.com">istockphoto.com </em></a>
+    
+    <p> Ever since I visited Taiwan, I couldn't get enough of this staple dish. Not only is it fulfilling but also super easy to make! </p>
+
+    <p> Though each asian country has their own variation of braised pork rice, there is something about the Taiwanese version that I can't get enough of :) </p>
+
+    <p> Now if only I had a kitchen to give this a go myself, I'll just have to settle on making a website and cook it in my mind's kitchen </p>
+
+  <h2> <u> The Ingredients: </u> </h2>
+  <p> (There's a lot more than you expect!) </p>
+  <ul>
+    <h3> <u> Main parts of the dish: </u> </h3>
+      <li> 450g skin-on pork belly </li>
+      <li> 2 teaspoons oil </li>
+      <li> 25g rock sugar (or white sugar) </li>
+      <li> 1 small onion </li>
+      <li> 8 shiitake mushrooms </li>
+      <li> 1/4 cup (or 60ml) of shaoxing wine </li>
+      <li> 3 teaspoons (or 45ml) of light soy sauce </li>
+      <li> 2 tablespoons (or 30ml) of dark soy sauce </li>
+
+      <h3> <u>For the spice bag: </u> </h3>
+      <li> 3 pieces of star anise </li>
+      <li> 1 cinnamon stick </li>
+      <li> 6 cloves </li>
+      <li> 3 bay leaves </li>
+      <li> 2 teaspoons Sichuan peppercorns </li>
+      <li> 2 pieces dried tangerine peel </li>
+      <li> 2 slices fresh ginger </li>
+  </ul>
+
+<h2> <u> Instructions: </u> </h2>
+
+  <ol>
+      <li> Bring a medium pot of water to a boil (just enough so that the pork will be fully submerged), and blanch the chopped pork belly for 1 minute. Drain, rinse clean of any scum, and set aside. </li>
+
+      <p> </p>
+
+      <li> Heat the oil in a wok over low heat, and add the sugar. Cook the sugar until it starts to melt and then add the onions. Turn up the heat to medium high and stir-fry the onions for a minute. Add the mushrooms and stir-fry for another couple minutes. </li>
+
+      <p> </p>
+
+      <li> Add the blanched pork, shaoxing wine, light soy sauce, dark soy sauce and water. Stir and bring the mixture to a boil. Once boiling, add the spices (which should be tied in cheese cloth), along with the peeled hardboiled eggs and turn the heat to the lowest setting. Simmer for 1 1/2 hours, stirring occasionally to prevent sticking. </li>
+      
+      <p> </p>
+
+      <li> At this point the meat should be fall-apart tender. To finish the dish, remove the spice packet and turn up the heat to medium high to thicken the sauce, stirring occasionally. This process should take about 5-minutes. The sauce should be thick enough to coat a spoon, but there should still be plenty of it left. Serve over steamed white rice. </li>
+  </ol>
+
+    <p></p>
+    
+
+<p> <em> Recipe Credit: Judy from The Woks of Life - Link can be found here:  <a href="https://thewoksoflife.com/lu-rou-fan-taiwanese-braised-pork-rice-bowl/"> Lu Rou Fan (Taiwanese Braised Pork Rice Bowl) </em> </a> </p>
+
+</body>
+</html>
+
+
+
+
