@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head> 
+    <meta charset="UTF-8">
+    <meta name="description" content="Taiwan is a must-go country for foodies and amazing hikes!"/>
+     <title> Travel Agency Page </title> 
+  </head>
+
+  <body>
+    <h1> Taiwan is an underrated travel destination! </h1>
+      <p> 
+        Taiwan can be considered both South East Asia and East Asia depending on who you talk to. Big things come in small packages and the same can be said for the Republic of China! Taiwan has so much to offer on this small island, why would you go anywhere else?         
+      </p>
+
+    <h2>Packages </h2>
+      <p> 
+        From foodie tours, diving resorts to historical monuments, there is a little bit of something for every type of traveller! Take a look at our tour packages below:
+      </p>
+        <ul>
+          <li> 
+            <a href="https://www.freecodecamp.org/learn" target="_blank">Group Travels</a>
+          </li>  
+          <li> 
+            <a href="https://www.freecodecamp.org/learn" target="_blank">Private Tours</a> 
+          </li>  
+        </ul>
+
+    <h2> Top Itineraries </h2>
+
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src ="https://www.travelfeeder.com/wp-content/uploads/2014/02/Tapei-attraction.jpg" alt = "Picture of Chiang Kai-shek Memorial Hall"/></a>
+        <figcaption> Chiang Kai-shek Memorial Hall </figcaption> 
+      </figure>
+
+      <figure>
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src ="https://thisremotecorner.com/wp-content/uploads/2023/07/Pekingese-Dog-Rock-and-Sleeping-Beauty-Rock-viewed-from-Little-Great-Wall.jpeg" alt = "Picture of 'Little Green Wall' on Green Island"/></a>
+         <figcaption> "Little Green Wall" on Green Island </figcaption>
+      </figure>
+
+      <figure>  
+        <a href="https://www.freecodecamp.org/learn" target="_blank"><img src ="https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2024/05/17/76aededde83c4429b1ab2abc5b18108f_Taipei_raohe_night_market__%282%29.jpg" alt = "Picture of Raohe Street Market Gate"/></a>
+        <figcaption> Raohe Night Markets </figcaption>
+      </figure>
+  </body>
+</html>
