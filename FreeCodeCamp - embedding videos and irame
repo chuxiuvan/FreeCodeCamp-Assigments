@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Video Compilation Page</title>
+</head>
+
+<body>
+    <main>
+        <h1> Video compilation page </h1>
+
+        <p> This is part of my FreeCodeCamp exercise that involves teaching me how to embed videos onto a webpage with the iframe element. I am not particularly sure what kind of videos I should be embedding, so I will use my favourite videos that I refer to when I'm sad and need a pick-me-up :) I may or may not be showing my age with these types of videos. </p>
+
+        <section>
+            <h2>DUde THaTs NoT A CaT! (Loud)</h2> 
+            <p>Video is about 26 seconds long, don't think too hard on it. It's a kid screaming on the mic, pretending to be a cat </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/ePZckW651bQ?si=VpwL2IJ_CAQIWmgs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2> broken (pants) </h2> 
+            <p> This artist completed this animation on a Nintendo 3DS app called flipnote. I cannot imagine how long it took to make such a small clip </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/Rff5btYCIho?si=KZPLmACDRV2MnDuY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+
+        <section>
+            <h2> Hungry Cat </h2> 
+            <p> It wasn't until I had to decide what videos to use for this assignment that I realised that all of my videos chosen involved some sort of animal - whether it be the main focus or referenced in one way or another </p>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/MknlRfRxNi8?si=9MnXOKjMNoOx4y1h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </section>
+    </main>
+</body>
+</html>
