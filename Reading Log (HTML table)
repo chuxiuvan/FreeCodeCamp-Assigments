@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Catalog</title>
+</head>
+
+<body>
+    <table>
+      <caption>
+        Last Five Books I Have Read
+      </caption>
+
+      <thead>     
+        <tr>
+          <th>Title</th>
+          <th>Author</th>
+          <th>Genre</th>
+          <th>Publication Year</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td>The Courage to Be Happy: Discover the Power of Positive Psychology and Choose Happiness Every Day</td>
+          <td>Ichiro Kishimi, Fumitake Koga</td>
+          <td>Psychology, Self-Help, Philosophy</td>
+          <td>2024</td>
+        </tr>
+
+        <tr>
+          <td>Island of the Blue Dolphins</td>
+          <td>Scott O'Dell</td>
+          <td>Fiction, Young Adult, Historical Fiction</td>
+          <td>1960</td>
+        </tr>
+
+        <tr>
+          <td>Night</td>
+          <td>Elie Wiesel, Marion Wiesel (Translator)</td>
+          <td>Nonfiction, Classics, Memoir</td>
+          <td>1956</td>
+        </tr>
+
+        <tr>
+          <td>The Art of Frugal Hedonism: A Guide to Spending Less While Enjoying Everything More</td>
+          <td>Annie Raser-Rowland, Adam Grubb</td>
+          <td>Nonfiction, Finance, Self-Help</td>
+          <td>2017</td>
+        </tr>
+
+        <tr>
+          <td>The Obesity Paradox: When Thinner Means Sicker and Heavier Means Healthier</td>
+          <td>Carl J. Lavie</td>
+          <td>Nonfiction, Health, Nurtition, Science</td>
+          <td>2014</td>
+        </tr>
+         <tr>
+          <td>Memoirs of a Geisha</td>
+          <td>Arthur Golden</td>
+          <td>Fiction, Historical, Romance</td>
+          <td>1997</td>
+        </tr>
+      </tbody>
+      <tfoot>
+        <tr>
+          <td colspan="4">Total Books: 6</td>
+        </tr>
+      </tfoot>
+    </table>
+  </body>
+</html>
