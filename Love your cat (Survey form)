@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8"/>
+    <title>Survey Form</title>
+  </head>
+
+  <body>
+    <h1 id="title">Admit your love for cats!</h1>
+      <p id="description"> This is a cat worship admittance form. Please provide your love to the cat distribution system here:</p>
+    <form id="survey-form">
+    <fieldset>
+        <label for="name" id="name-label">What is your name?</label>
+          <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Enter full name here"
+            required
+          >
+          <p></p>
+        <label id="email-label" for="email" >What is your email?</label>
+          <input
+            id="email"
+            type="email"
+            name="email"
+            placeholder="Enter email here"
+            required
+          >
+        <p></p>
+        <label id="number-label" for="age">What is your age?</label>    
+          <input 
+            id="number"
+            type="number"
+            min="3"
+            max="100"
+            placeholder="Select your age here"
+          >
+        </fieldset>
+
+        <fieldset>
+        <label id="love-cat">How much would you say you love cats?</label>  
+          <select id="dropdown" name="love-cat">
+            <option selected value="love">LOVE </option>
+            <option value="like">Like</option>
+            <option value="really -like">Really Like</option>
+            <option value="really-love">Really Love</option>
+            <option value="they're-okay">They're okay</option>
+         </select> 
+      </fieldset>
+      <fieldset>
+        <legend>What type of cats do you like?</legend>
+        <label for="All-of-them!"> All of them!</label>
+          <input type="checkbox" id="all-of-them" name="all-of-them" value="all-of-them" />
+        <label for="I-cant-choose">I can't choose!</label>
+           <input type="checkbox" id="i-cant-choose" name="i-cant-choose" value="i-cant-choose"/>
+        <label for="every-single-one">Every single one of them!</label>
+          <input type="checkbox" id="every-single-one" name="every-single-one" value="every-single-one">   
+        </fieldset>   
+      <fieldset>
+          <label>Will you pledge that you will love cats in all forms until the end of time?</label>
+          <label for="forever-option">Forever</label>
+            <input id="forever" type="radio" name="cat-pledge" value="forever">
+          <label for="YES-option">YES</label>
+            <input id="YES-option" type="radio" name="cat-pledge" value="YES">
+        </fieldset>
+        <fieldset>
+          <label for="cat-names">What is the name of your cat? Or if you could give a name to a cat, what would it be? (If you can tell us why, we'll give you brownie points!)</label>
+          <p></p>
+            <textarea cols="70" rows="10" name="cat-names" id="cat-names"></textarea>
+          <button id="submit">Submit</button>
+        </fieldset>
+  </form id="survey-form">
+  </body>
+</html>
