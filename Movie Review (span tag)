@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>Movie Review</title>
+ </head>
+<body>
+    <main>
+        <h1>The Fantastic Four: First Steps (2025) Review </h1>
+            <img src="https://www.thelelandprogress.com/wp-content/uploads/2025/07/F4-poster-691x1024.png" alt ="Poster of The Fantastic Four: First Steps promotional poster" size="100"/>
+        <p>
+            Review: The Fantastic Four: First Steps – Marvel’s First Family Leaps into the MCU with Style and Heart
+
+    Marvel Studios has finally brought the Fantastic Four into its cinematic universe, and First Steps proves to be both a retro-futuristic spectacle and an emotional family drama. Directed by Matt Shakman, the film ditches yet another origin retread in favor of dropping viewers into a world where the FF are already established, celebrated, and… about to become parents.
+    Plot & Setting
+
+    Set in Earth-828’s 1960s-inspired, retro-futuristic cityscape—think Jack Kirby’s bold designs come to life—the story opens four years after the cosmic accident that gave Reed Richards (Pedro Pascal), Sue Storm (Vanessa Kirby), Johnny Storm (Joseph Quinn), and Ben Grimm (Ebon Moss-Bachrach) their powers. The family’s dynamic is warm, playful, and tightly knit. But Sue’s announcement that she’s expecting a child (comic fans will instantly recognize the name Franklin Richards) raises the stakes when the Silver Surfer (Julia Garner) arrives with a dire warning: Galactus is coming… and he wants their unborn child.
+
+    From there, the movie pivots into a blend of cosmic action and moral dilemma. Rather than pure punching, much of the drama hinges on the team’s choices—Sue’s unwavering refusal to sacrifice her child, Reed’s desperate scientific gambits, and the Silver Surfer’s own crisis of loyalty.
+        </p>
+        <p>
+            <strong>Movie Rating: </strong>
+            <span aria-hidden="true">☆☆☆☆☆☆☆☆☆☆</span> (10/10)
+        </p>
+        <h2>Cast Members</h2>
+            <ul>
+                <li><strong>Pedro Pascal</strong> as Reed Richards</li>
+                <li><strong>Vanessa Kirby</strong> as Sue Storm</li>
+                <li><strong>Joseph Quinn</strong> as Johnny Storm</li>
+                <li><strong>Julia Garner</strong> as Shalla-Bal</li>
+                <li><strong>Paul Walter Hauser</strong> as Harvey Elder</li>
+                <li><strong>Ralph Ineson</strong> as Galactus</li>
+                <li><strong>Ebon Moss-Bachrach</strong> as Ben Grimm</li>
+            </ul>
+    </body>
+</html>
